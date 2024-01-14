@@ -1,0 +1,105 @@
+{
+  "seller": [
+    {
+      "id": "f497",
+      "name": "Rakesh",
+      "email": "rak@abc.com",
+      "password": "rak123"
+    },
+    {
+      "id": "4780",
+      "name": "Satish",
+      "email": "sat@abc.coom",
+      "password": "123"
+    },
+    {
+      "id": "1e40",
+      "name": "Rakesh",
+      "email": "rak@abc.com",
+      "password": "123"
+    },
+    {
+      "id": "3b7b",
+      "name": "Sagar",
+      "email": "sag@abc.com",
+      "password": "123"
+    },
+    {
+      "id": "9bde",
+      "name": "Rakesh",
+      "email": "rak@abc.com",
+      "password": "123"
+    },
+    {
+      "id": "1eb4",
+      "name": "Satish",
+      "email": "sat@abc.coom",
+      "password": "123"
+    },
+    {
+      "id": "1fb6",
+      "email": "rak@abc.com",
+      "password": "12345"
+    },
+    {
+      "id": "639c",
+      "name": "Rakesh",
+      "email": "rak@abc.com",
+      "password": "12345"
+    },
+    {
+      "id": "5a9a",
+      "name": "Rakesh",
+      "email": "rak@abc.com",
+      "password": "12345"
+    },
+    {
+      "id": "6332",
+      "name": "Rakesh",
+      "email": "rak@abc.com",
+      "password": "12345"
+    },
+    {
+      "id": "5367",
+      "name": "Rakesh",
+      "email": "rak@abc.com",
+      "password": "12345"
+    },
+    {
+      "id": "cec1",
+      "name": "Satish",
+      "email": "sat@abc.coom",
+      "password": "123"
+    },
+    {
+      "id": "0b5a",
+      "name": "Satish",
+      "email": "sat@abc.coom",
+      "password": "12345"
+    },
+    {
+      "id": "c609",
+      "name": "Satish",
+      "email": "sat@abc.coom",
+      "password": "12345"
+    },
+    {
+      "id": "f122",
+      "name": "Satish",
+      "email": "sat@abc.coom",
+      "password": "12345"
+    },
+    {
+      "id": "203a",
+      "name": "Satish",
+      "email": "sat@abc.coom",
+      "password": "12345"
+    },
+    {
+      "id": "03ae",
+      "name": "Satish",
+      "email": "sat@abc.coom",
+      "password": "12345"
+    }
+  ]
+}
